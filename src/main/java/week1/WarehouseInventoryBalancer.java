@@ -1,3 +1,5 @@
+package week1;
+
 public class WarehouseInventoryBalancer {
 
     public static void analyzeInventory(int[] sectionA, int[] sectionB) {

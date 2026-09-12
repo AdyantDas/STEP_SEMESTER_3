@@ -1,3 +1,5 @@
+package week1;
+
 public class TypingSpeedTestAccuracyChecker {
 
     public static void checkTypingAccuracy(String original, String typed) {

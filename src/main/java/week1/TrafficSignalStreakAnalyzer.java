@@ -1,3 +1,5 @@
+package week1;
+
 public class TrafficSignalStreakAnalyzer {
 
     public static void findLongestStreak(String signalLog) {

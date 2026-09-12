@@ -1,3 +1,5 @@
+package week1;
+
 public class MovieReviewWordLengthProfiler {
 
     public static void classifyWordLengths(String review) {
